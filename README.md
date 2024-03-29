@@ -133,8 +133,7 @@ Testing the webserver.
 
 </body></html>
 ## OUTPUT:
-![WhatsApp Image 2024-03-29 at 11 25 01 PM](https://github.com/Ashwinakn/simplewebserver/assets/152128332/430aece1-10f9-4052-878d-f71461bb8dc9)
-
+![output](https://github.com/Ashwinakn/simplewebserver/assets/152128332/8d5998fb-ac88-4d56-aaa2-b4beecd131b2)
 
 
 ## RESULT:
