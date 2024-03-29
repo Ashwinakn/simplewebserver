@@ -132,8 +132,9 @@ Testing the webserver.
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 </body></html>
-## OUTPUT:
-![output](https://github.com/Ashwinakn/simplewebserver/assets/152128332/8d5998fb-ac88-4d56-aaa2-b4beecd131b2)
+## OUTPUT:  
+![Screenshot 2024-03-29 230714](https://github.com/Ashwinakn/simplewebserver/assets/152128332/791061f9-b528-4b9e-b18d-80edc90660a2)
+
 
 
 ## RESULT:
