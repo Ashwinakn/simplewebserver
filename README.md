@@ -133,7 +133,8 @@ Testing the webserver.
 
 </body></html>
 ## OUTPUT:
-![alt text](<Screenshot 2024-03-29 230714.png>)
+![Screenshot 2024-03-29 230714](https://github.com/Ashwinakn/simplewebserver/assets/152128332/9e19efc7-b839-4b96-a44e-1476487595aa)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
