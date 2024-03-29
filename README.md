@@ -133,7 +133,8 @@ Testing the webserver.
 
 </body></html>
 ## OUTPUT:
-![Screenshot 2024-03-29 230714](https://github.com/Ashwinakn/simplewebserver/assets/152128332/9e19efc7-b839-4b96-a44e-1476487595aa)
+[Screenshot 2024-03-29 230714]
+
 
 
 ## RESULT:
